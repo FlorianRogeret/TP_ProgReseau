@@ -1,0 +1,6 @@
+TP Réalisé par Valentin Margrit et Florian Rogeret
+
+Afin de faire au mieux ce qu'il nous était demandé nous avons préférés utiliser des sockets.
+Le plus gros de notre travail se trouve dans le nouveau projet (ServeurMemo) mais aussi dans MessengerHub.cs
+
+Le projet est réussi même s'il est nécessaire de lancer le serveur avant toute opération. 

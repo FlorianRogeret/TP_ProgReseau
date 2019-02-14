@@ -1,0 +1,18 @@
+﻿
+
+User : <input type="text" id="user" />
+<br />
+Message : <input type="text" id="message" />
+<br />
+<button type="button" id="envoie">Envoyer</button>
+
+<br />
+<hr />
+<ul id="messages"></ul>
+
+@section Scripts {
+    <script src="~/lib/@@aspnet/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/msgpack5.js"></script>
+    <script src="~/js/signalr-protocol-msgpack.js"></script>
+    <script src="~/js/messenger.js"></script>
+}
